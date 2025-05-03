@@ -21,6 +21,7 @@ Ministry of Railway
 * Enhance crowd management by highlighting less congested routes using real-time footfall data.
 
 ## Proposed Solution / Architecture Diagram
+![AR DI](https://github.com/user-attachments/assets/b2f21c02-d75a-4dda-8cb9-43d41fb2c1a4)
 
 
 
@@ -30,7 +31,8 @@ Ministry of Railway
 * Casual Traveler at Kiosk: Searches for cloakroom location, scans a QR code, and continues navigation on their phone.
 * Railway Official: Temporarily marks platform 3 as inaccessible and reroutes passengers via admin dashboard.
 * 
-![image](https://github.com/user-attachments/assets/1db871c9-5827-4f63-8198-98063268fbf1)
+ ![USE CASE](https://github.com/user-attachments/assets/3181dfb4-0f37-47cd-93c3-1ed435d459ba)
+
 
 
 ## Technology Stack
