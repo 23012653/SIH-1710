@@ -22,13 +22,38 @@ The core idea is to create a smart, real-time navigation system that helps passe
 
 
 ## Technology Stack
-### Frontend
+#### Frontend:
 * Flutter
 * React Native
 * Android (Kotlin)
 * iOS (Swift)
 * ReactJS
 * HTML5
+
+#### Backend:
+* Node.js
+* Django
+* Spring Boot
+
+#### Database:
+* PostgreSQL
+* Firebase
+* MongoDB
+
+#### Mapping & Navigation:
+* Mapbox SDK
+* Google Maps Indoor API
+* Unity3D
+* HERE Maps SDK
+
+#### Accessibility:
+* Google Text-to-Speech
+* Amazon Polly
+* ARIA roles
+* 
+#### Integration & Notifications:
+* IRCTC APIs
+* Firebase Cloud Messaging (FCM)
 
 
 
