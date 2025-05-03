@@ -30,7 +30,8 @@ Ministry of Railway
 * Casual Traveler at Kiosk: Searches for cloakroom location, scans a QR code, and continues navigation on their phone.
 * Railway Official: Temporarily marks platform 3 as inaccessible and reroutes passengers via admin dashboard.
   
-     ![USE CASE](https://github.com/user-attachments/assets/be608e2c-3b15-4f14-bd9d-d9fb4e03426c)
+  ![USE CASE](https://github.com/user-attachments/assets/df1c19e0-a3ac-41ae-a10a-e1e6dcdfb97a)
+
 
 
 ## Technology Stack
