@@ -29,8 +29,8 @@ Ministry of Railway
 * Visually Impaired Passenger: Activates voice and haptic feedback to navigate from entry gate to assistance desk.
 * Casual Traveler at Kiosk: Searches for cloakroom location, scans a QR code, and continues navigation on their phone.
 * Railway Official: Temporarily marks platform 3 as inaccessible and reroutes passengers via admin dashboard.
+     ![USE CASE](https://github.com/user-attachments/assets/be608e2c-3b15-4f14-bd9d-d9fb4e03426c)
 
-     ![USE CASE](https://github.com/user-attachments/assets/da80bf7c-7423-429b-bbfe-fbd620818caf)
 
 ## Technology Stack
 #### Frontend:
