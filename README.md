@@ -21,7 +21,7 @@ Ministry of Railway
 * Enhance crowd management by highlighting less congested routes using real-time footfall data.
 
 ## Proposed Solution / Architecture Diagram
-![WhatsApp Image 2025-05-03 at 17 05 20_0ac91cdd](https://github.com/user-attachments/assets/edad2e60-f638-40e4-818c-d1d3df95c35c)
+![WhatsApp Image 2025-05-03 at 17 05 20_0ac91cdd](https://github.com/user-attachments/assets/41835aea-9910-4b7e-8543-9dba4aabace5)
 
 
 ## Use Cases
