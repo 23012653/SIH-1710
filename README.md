@@ -11,16 +11,34 @@ Background: Railway stations are complex environments with numerous facilities a
 Ministry of Railway
 
 ## Idea
+The core idea is to create a smart, real-time navigation system that helps passengers easily locate all railway station facilities (ticket counters, platforms, washrooms, food courts, etc.) using mobile apps and digital kiosks. The system will especially assist first-time and differently-abled travelers by providing step-by-step navigation, voice assistance, and interactive maps, ensuring a stress-free transit experience.
 
 
 ## Proposed Solution / Architecture Diagram
+
 
 
 ## Use Cases
 
 
 ## Technology Stack
+### Frontend
+* Flutter
+* React Native
+* Android (Kotlin)
+* iOS (Swift)
+* ReactJS
+* HTML5
+
 
 
 ## Dependencies
+* Indoor mapping SDKs (Mapbox Indoor, HERE SDK)
+* BLE Beacons
+* Wi-Fi triangulation modules
+* IRCTC backend data
+* Multilingual libraries
+* Voice APIs (TTS engines)
+* Admin panel interface
+* Cloud services (AWS, GCP, Azure)
 
