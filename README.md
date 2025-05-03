@@ -29,44 +29,18 @@ Ministry of Railway
 * Visually Impaired Passenger: Activates voice and haptic feedback to navigate from entry gate to assistance desk.
 * Casual Traveler at Kiosk: Searches for cloakroom location, scans a QR code, and continues navigation on their phone.
 * Railway Official: Temporarily marks platform 3 as inaccessible and reroutes passengers via admin dashboard.
+  
      ![USE CASE](https://github.com/user-attachments/assets/be608e2c-3b15-4f14-bd9d-d9fb4e03426c)
 
 
 ## Technology Stack
-#### Frontend:
-* Flutter
-* React Native
-* Android (Kotlin)
-* iOS (Swift)
-* ReactJS
-* HTML5
-
-#### Backend:
-* Node.js
-* Django
-* Spring Boot
-
-#### Database:
-* PostgreSQL
-* Firebase
-* MongoDB
-
-#### Mapping & Navigation:
-* Mapbox SDK
-* Google Maps Indoor API
-* Unity3D
-* HERE Maps SDK
-
-#### Accessibility:
-* Google Text-to-Speech
-* Amazon Polly
-* ARIA roles
-* 
-#### Integration & Notifications:
-* IRCTC APIs
-* Firebase Cloud Messaging (FCM)
-
-
+* Mobile App: Flutter / React Native
+* Kiosk Interface: ReactJS / HTML5
+* Backend: Node.js / Django
+* Database: Firebase / MongoDB / PostgreSQL
+* Indoor Positioning: Mapbox SDK / HERE Maps / Unity3D
+* Voice & Accessibility: Amazon Polly / Google TTS / ARIA
+* Cloud Infrastructure: AWS / Google Cloud / Firebase
 
 ## Dependencies
 * Indoor mapping SDKs (Mapbox Indoor, HERE SDK)
