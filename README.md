@@ -21,7 +21,7 @@ Ministry of Railway
 * Enhance crowd management by highlighting less congested routes using real-time footfall data.
 
 ## Proposed Solution / Architecture Diagram
-![AR DI 1](https://github.com/user-attachments/assets/bf38fa43-98ba-443c-8794-87c00373c66a)
+     ![AR DI 1](https://github.com/user-attachments/assets/bf38fa43-98ba-443c-8794-87c00373c66a)
 
 ## Use Cases
 * First-Time Passenger: Uses mobile app to find the ticket counter and platform in real-time.
@@ -29,7 +29,7 @@ Ministry of Railway
 * Casual Traveler at Kiosk: Searches for cloakroom location, scans a QR code, and continues navigation on their phone.
 * Railway Official: Temporarily marks platform 3 as inaccessible and reroutes passengers via admin dashboard.
 
- ![USE CASE](https://github.com/user-attachments/assets/da80bf7c-7423-429b-bbfe-fbd620818caf)
+     ![USE CASE](https://github.com/user-attachments/assets/da80bf7c-7423-429b-bbfe-fbd620818caf)
 
 ## Technology Stack
 #### Frontend:
