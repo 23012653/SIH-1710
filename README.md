@@ -11,8 +11,14 @@ Background: Railway stations are complex environments with numerous facilities a
 Ministry of Railway
 
 ## Idea
-The core idea is to create a smart, real-time navigation system that helps passengers easily locate all railway station facilities (ticket counters, platforms, washrooms, food courts, etc.) using mobile apps and digital kiosks. The system will especially assist first-time and differently-abled travelers by providing step-by-step navigation, voice assistance, and interactive maps, ensuring a stress-free transit experience.
-
+* Develop a multi-platform navigation system for railway stations to assist passengers in locating facilities like ticket counters, platforms, restrooms, food courts, etc.
+* Create a mobile app featuring 3D interactive maps with step-by-step indoor navigation.
+* Install digital touch-screen kiosks at various points in the station to assist users with real-time directions.
+* Include voice-guided navigation and screen-reader support for visually impaired users.
+* Implement a backend system that allows administrators to update layout changes in real-time, ensuring always-accurate directions.
+* Integrate with existing railway services/apps (e.g., IRCTC) for seamless transition and a unified travel experience.
+* Incorporate accessibility features, language support, and emergency assistance features.
+* Enhance crowd management by highlighting less congested routes using real-time footfall data.
 
 ## Proposed Solution / Architecture Diagram
 
