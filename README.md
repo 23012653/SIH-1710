@@ -25,6 +25,12 @@ Ministry of Railway
 
 
 ## Use Cases
+* First-Time Passenger: Uses mobile app to find the ticket counter and platform in real-time.
+* Visually Impaired Passenger: Activates voice and haptic feedback to navigate from entry gate to assistance desk.
+* Casual Traveler at Kiosk: Searches for cloakroom location, scans a QR code, and continues navigation on their phone.
+* Railway Official: Temporarily marks platform 3 as inaccessible and reroutes passengers via admin dashboard.
+* 
+![image](https://github.com/user-attachments/assets/1db871c9-5827-4f63-8198-98063268fbf1)
 
 
 ## Technology Stack
